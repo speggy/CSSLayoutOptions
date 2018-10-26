@@ -1,0 +1,11 @@
+main{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+
+}
+
+section{
+	padding: 10px;
+	flex-basis: 300px;
+}

@@ -1,0 +1,9 @@
+main{
+	column-count: 3;
+	column-rule: 2px solid #000;
+	column-gap: 50px;
+}
+
+main h2:first-of-type{
+	margin-top: 0%;
+}

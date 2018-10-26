@@ -1,0 +1,52 @@
+/*a*/
+html{
+	font-family: arial, helvetica;
+}
+/*b*/
+h1{
+	text-align: center;
+}
+/*c*/
+h2{
+	color: maroon;
+}
+/*d*/
+header{
+	background-color: lightgray;
+}
+
+footer{
+	background-color: lightgray;
+}
+/*e*/
+main{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+/*f*/
+header{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 50px;
+}
+/*g*/
+footer{
+	text-align: center;
+	margin-top: 40px;
+}
+/*h*/
+ul{
+	list-style-type: square;
+}
+/*i*/
+li{
+	text-indent: 5px;
+}
+/*j*/
+/*aside{
+	background-color: darkgreen;
+	color: yellow;
+	padding: 2px;
+	margin-left: 5%;
+	margin-right: 5%;
+}*/
